@@ -3,7 +3,7 @@ let links = {
     "https://royale.globo.com/polls/6816223c-7508-4267-a9e2-dcce85edd7f2/votes",
   globoLoginUrl: "https://minhaconta.globo.com",
   paredaoUrl:
-    "https://gshow.globo.com/realities/bbb/bbb20/votacao/paredao-bbb20-quem-voce-quer-eliminar-babu-pyong-ou-rafa-6bb86a70-ac24-48e7-bdb8-a6cd83009ef3.ghtml",
+    "https://gshow.globo.com/realities/bbb/bbb20/votacao/paredao-bbb20-quem-voce-quer-eliminar-felipe-manu-ou-mari-a9f49f90-84e2-4c12-a9af-b262e2dd5be4.ghtml",
   challengeUrl: "https://captcha.globo.com/api/challenge/generate"
 };
 
